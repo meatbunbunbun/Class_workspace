@@ -171,6 +171,13 @@ for x in xrange(3):
 else:
     print 'Final x = %d' % (x)
 ```
+
+##Modules 
+A module is a file that contains Python definitions and statements. It can define functions, classes, and variables. Modules are convenient because you can use any Python source file as a module by executing an important statement in like so:
+```
+import module1
+```
+
 ##Software
 
 ##Try/Except
